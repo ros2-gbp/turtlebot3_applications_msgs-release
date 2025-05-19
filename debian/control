@@ -1,0 +1,12 @@
+Source: ros-humble-turtlebot3-applications-msgs
+Section: misc
+Priority: optional
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-lint-common <!nocheck>, ros-humble-builtin-interfaces, ros-humble-rosidl-default-generators, ros-humble-sensor-msgs, ros-humble-std-msgs, ros-humble-ros-workspace, ros-humble-rosidl-typesupport-fastrtps-c, ros-humble-rosidl-typesupport-fastrtps-cpp
+Homepage: http://wiki.ros.org/turtlebot3_applications_msgs
+Standards-Version: 3.9.2
+
+Package: ros-humble-turtlebot3-applications-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-builtin-interfaces, ros-humble-rosidl-default-runtime, ros-humble-sensor-msgs, ros-humble-std-msgs, ros-humble-ros-workspace
+Description: Message and service types: custom messages and services for TurtleBot3 Applications packages
