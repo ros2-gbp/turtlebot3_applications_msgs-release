@@ -1,3 +1,24 @@
+## turtlebot3_applications_msgs (kilted) - 1.0.1-1
+
+The `turtlebot3_applications_msgs` package was released into `kilted` by running `git-bloom-release kilted -y` on `Tue, 10 Nov 2026 08:41:24 +0000`.
+
+Version of package(s) in repository `turtlebot3_applications_msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3_applications_msgs.git
+- release repository: https://github.com/ros2-gbp/turtlebot3_applications_msgs-release.git
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot3_applications_msgs (rolling) - 1.0.1-1
 
 The packages in the `turtlebot3_applications_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release turtlebot3_applications_msgs -t rolling -r rolling --edit` on `Mon, 19 May 2025 06:54:33 -0000`
